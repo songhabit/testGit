@@ -1,3 +1,4 @@
 # testGit
 study git
-creating a new branch is quick & simple.
+
+creating a new branch is quick  And Simple.
